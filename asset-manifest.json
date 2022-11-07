@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shivakumardasari.github.io/csb-soqxyy/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shivakumardasari.github.io/csb-soqxyy/static/js/main.aceacf49.chunk.js",
+    "main.js.map": "https://shivakumardasari.github.io/csb-soqxyy/static/js/main.aceacf49.chunk.js.map",
+    "runtime-main.js": "https://shivakumardasari.github.io/csb-soqxyy/static/js/runtime-main.5b8f8486.js",
+    "runtime-main.js.map": "https://shivakumardasari.github.io/csb-soqxyy/static/js/runtime-main.5b8f8486.js.map",
+    "static/js/2.faa114de.chunk.js": "https://shivakumardasari.github.io/csb-soqxyy/static/js/2.faa114de.chunk.js",
+    "static/js/2.faa114de.chunk.js.map": "https://shivakumardasari.github.io/csb-soqxyy/static/js/2.faa114de.chunk.js.map",
+    "index.html": "https://shivakumardasari.github.io/csb-soqxyy/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shivakumardasari.github.io/csb-soqxyy/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.faa114de.chunk.js.LICENSE.txt": "https://shivakumardasari.github.io/csb-soqxyy/static/js/2.faa114de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b8f8486.js",
+    "static/js/2.faa114de.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.aceacf49.chunk.js"
+  ]
+}
